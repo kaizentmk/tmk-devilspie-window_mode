@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=__home-folder__/apps/toggle-maximize-window-mode.sh
+Name=toggle-maximize-window-mode
+Comment=toggle-maximize-window-mode using devilspie
+Type=Application
+Icon=applications-system
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+

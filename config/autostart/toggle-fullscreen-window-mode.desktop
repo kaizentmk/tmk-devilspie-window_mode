@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=__home-folder__/apps/toggle-fullscreen-window-mode.sh
+Name=toggle-fullscreen-window-mode
+Comment=toggle-fullscreen-window-mode using devilspie
+Type=Application
+Icon=applications-system
+StartupNotify=true
+X-GNOME-Autostart-enabled=true
+
