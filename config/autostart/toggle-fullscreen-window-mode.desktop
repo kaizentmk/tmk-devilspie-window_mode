@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=__home-folder__/apps/toggle-fullscreen-window-mode.sh
+Exec=__home-folder__/apps/scripts/toggle-fullscreen-window-mode.sh
 Name=toggle-fullscreen-window-mode
 Comment=toggle-fullscreen-window-mode using devilspie
 Type=Application

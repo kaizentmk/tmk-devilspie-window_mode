@@ -11,4 +11,4 @@ Supported mods: fullscreen, maximized
 
 ## Additional info
 
-https://wiki.gnome.org/action/show/Projects/DevilsPie
+[](https://wiki.gnome.org/action/show/Projects/DevilsPie)
